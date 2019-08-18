@@ -8,7 +8,7 @@
     <title>Apply</title>
 </head>
 <body>
-    <form asp-action="apply">
+    <form asp-action="apply" method="Post">
         <p>
         <label asp-for="Name" >Adınız</label>
         <input asp-for="Name">
@@ -29,6 +29,7 @@
         <p>
             <label asp-for="Confirm">Katılıyor musunuz?</label>
             <select asp-for="Confirm">
+                <option value="">Seçiniz</option>
                 <option value="true">Evet </option>
                 <option value="false">Hayır</option>
             </select>

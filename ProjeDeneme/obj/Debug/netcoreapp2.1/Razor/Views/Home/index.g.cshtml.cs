@@ -52,7 +52,7 @@ using ProjeDeneme.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(35, 203, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9b8a310105c447b7a6081caa628e1da9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "644a3dc4055a42feaaa529caa3a46700", async() => {
                 BeginContext(41, 190, true);
                 WriteLiteral("\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\r\n    <title>Home</title>\r\n");
                 EndContext();
@@ -72,7 +72,7 @@ using ProjeDeneme.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(240, 147, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3cf80d80aa0e4530b9ebba6754958354", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "517b4c23024d45eab97985042046abb9", async() => {
                 BeginContext(246, 19, true);
                 WriteLiteral("\r\n     <p>Merhaba  ");
                 EndContext();
@@ -97,7 +97,7 @@ using ProjeDeneme.Models;
                 WriteLiteral(" </p>\r\n    ");
                 EndContext();
                 BeginContext(315, 63, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce03e1b8636f448ba778aba11e6cec64", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea680ddac300442c98f4e4ad3a29d5cb", async() => {
                     BeginContext(362, 12, true);
                     WriteLiteral(" Başvuru yap");
                     EndContext();

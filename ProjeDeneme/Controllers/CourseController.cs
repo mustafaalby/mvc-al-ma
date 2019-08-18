@@ -17,8 +17,8 @@ namespace ProjeDeneme.Controllers
 
         [HttpPost]
         public IActionResult Apply(Student student){
-
-            return View();
+            Repository.AddStudent(student);
+            return View("Thanks",student);
 
         }
 

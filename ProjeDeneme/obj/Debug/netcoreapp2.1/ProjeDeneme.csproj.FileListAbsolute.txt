@@ -26,3 +26,4 @@ C:\Users\albym\Desktop\mvc çalışma\ProjeDeneme\obj\Debug\netcoreapp2.1\ProjeD
 C:\Users\albym\Desktop\mvc çalışma\ProjeDeneme\obj\Debug\netcoreapp2.1\Razor\Views\Course\details.g.cshtml.cs
 C:\Users\albym\Desktop\mvc çalışma\ProjeDeneme\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\Users\albym\Desktop\mvc çalışma\ProjeDeneme\obj\Debug\netcoreapp2.1\Razor\Views\Course\apply.g.cshtml.cs
+C:\Users\albym\Desktop\mvc çalışma\ProjeDeneme\obj\Debug\netcoreapp2.1\Razor\Views\Course\Thanks.g.cshtml.cs

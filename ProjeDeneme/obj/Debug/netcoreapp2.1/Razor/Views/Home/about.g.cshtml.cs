@@ -49,7 +49,7 @@ using ProjeDeneme.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(35, 203, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "50645b848e2143e586d2226806622208", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "61714fb63a744bd19e6a28ea16863598", async() => {
                 BeginContext(41, 190, true);
                 WriteLiteral("\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\r\n    <title>Home</title>\r\n");
                 EndContext();
@@ -69,7 +69,7 @@ using ProjeDeneme.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(240, 30, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "887bf65958c14faca24d17962bc77307", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25711b6710e24ec0a7c24b7ed777de77", async() => {
                 BeginContext(246, 17, true);
                 WriteLiteral("\r\n   home/about\r\n");
                 EndContext();
