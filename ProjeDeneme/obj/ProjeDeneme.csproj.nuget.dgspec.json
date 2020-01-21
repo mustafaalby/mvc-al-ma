@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albym\\Desktop\\mvc çalışma\\ProjeDeneme\\ProjeDeneme.csproj": {}
+    "C:\\Users\\albym\\Desktop\\Github\\MVC Course\\MVCLearing\\mvcLearning\\ProjeDeneme\\ProjeDeneme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albym\\Desktop\\mvc çalışma\\ProjeDeneme\\ProjeDeneme.csproj": {
+    "C:\\Users\\albym\\Desktop\\Github\\MVC Course\\MVCLearing\\mvcLearning\\ProjeDeneme\\ProjeDeneme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albym\\Desktop\\mvc çalışma\\ProjeDeneme\\ProjeDeneme.csproj",
+        "projectUniqueName": "C:\\Users\\albym\\Desktop\\Github\\MVC Course\\MVCLearing\\mvcLearning\\ProjeDeneme\\ProjeDeneme.csproj",
         "projectName": "ProjeDeneme",
-        "projectPath": "C:\\Users\\albym\\Desktop\\mvc çalışma\\ProjeDeneme\\ProjeDeneme.csproj",
+        "projectPath": "C:\\Users\\albym\\Desktop\\Github\\MVC Course\\MVCLearing\\mvcLearning\\ProjeDeneme\\ProjeDeneme.csproj",
         "packagesPath": "C:\\Users\\albym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albym\\Desktop\\mvc çalışma\\ProjeDeneme\\obj\\",
+        "outputPath": "C:\\Users\\albym\\Desktop\\Github\\MVC Course\\MVCLearing\\mvcLearning\\ProjeDeneme\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,6 +53,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
